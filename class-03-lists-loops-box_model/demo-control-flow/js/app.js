@@ -58,11 +58,11 @@ if ('something is true') {
 // p.174 	Key loop concepts (‘break’, ‘continue’)
 // p.175 	Using ‘for’ loops
 
-var samsPets = ['Buddy', 'Alistair', 'Trillian', 'Demi', 'Parker'];
-//
-for (var i = 0; i < samsPets.length; i++) {
-  console.log(samsPets[i]);
-}
+// var samsPets = ['Buddy', 'Alistair', 'Trillian', 'Demi', 'Parker'];
+// //
+// for (var i = 0; i < samsPets.length; i++) {
+//   console.log(samsPets[i]);
+// }
 
 // p.176 	Using ‘while’ loops
 var nadia = 0;
@@ -71,10 +71,10 @@ while (nadia !== 26) {
 }
 console.log('Nadia is awesome');
 
-var counter = 0;
-while(counter < samsPets.length) {
-  console.log(samsPets[counter]);
-  counter += 1;
-}
+// var counter = 0;
+// while(counter < samsPets.length) {
+//   console.log(samsPets[counter]);
+//   counter += 1;
+// }
 
 // p.177 	Using ‘do...while’ loops */
