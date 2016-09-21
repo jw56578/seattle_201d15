@@ -74,7 +74,6 @@ Slides to introduce students to core concepts of file management from the comman
 - pp.21-22: Tags as containers (great graphic page)
 - p.24: Tags
 - p.26: Attributes
-- p.33: Code in a CMS
 
 **HTML Chapter 8: "Extra Markup"**
 

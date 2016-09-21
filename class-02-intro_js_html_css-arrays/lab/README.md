@@ -1,4 +1,3 @@
-
 # Assignment Overview: Lab for Class 2
 
 - Your assignment will be to create an "About Me" HTML and JS project, and to also verify that you know how to use your Learning Journal. These are two separate projects that live in two separate Git/GitHub repositories
