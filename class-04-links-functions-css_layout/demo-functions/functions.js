@@ -1,4 +1,4 @@
-// July 21
+// September 22
 // Sam's functions demo
 
 'use strict';
@@ -47,7 +47,7 @@ var murderer = 'Colonel Mustard';
 var crimeScene = 'library';
 var toolOfDeath = 'candlestick';
 //
-// clue(murderer, crimeScene, toolOfDeath);
+clue(murderer, crimeScene, toolOfDeath);
 
 // ++++++++++++++++++++++++++++++++++++++++
 
