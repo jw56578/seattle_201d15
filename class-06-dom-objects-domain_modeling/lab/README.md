@@ -26,4 +26,4 @@ You will also simultaneously be working with more specific style and design conc
 ### Helpful Resources
 [Problem Domain Document](assets/support.md)
 
-[Assignment Assets](../assets)
+[Assignment Assets](assets)
