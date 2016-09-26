@@ -60,7 +60,7 @@ sam.logName = function() {
 };
 
 sam.whatIsThis = function() {
-  console.log(this);
+    console.log(this);
 };
 
 sam.whatIsThis(); //logs the sam object
