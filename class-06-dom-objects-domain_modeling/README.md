@@ -5,6 +5,8 @@
 
 - Announcements
   - We will wait until tomorrow to review Quiz 3 so that we can get going on new material sooner today
+  - Sam has a meeting at 3:30 this afternoon, so he'll be out of lab for a while
+  - Let's have a quick conversation about the flow of Week 2 so you know what is coming, and how
 
 - [Go over the domain modeling readings](#modeling) *[15 minutes]*
 - [The Document Object Model](#dom) *[45 minutes]*
