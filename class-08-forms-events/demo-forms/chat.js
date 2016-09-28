@@ -1,4 +1,5 @@
 'use strict';
+
 // +++++++++++++++++++++++++++++++++++++++++++++++++++++
 // Global variables for DOM access and such
 var chatList = document.getElementById('chat-list');
@@ -43,7 +44,7 @@ function handleCommentSubmit(event) {
   // console.log('log of the event object', event);
   // console.log('log of the event.target', event.target);
   // console.log('log of the event.target.says', event.target.says);
-  // console.log('log of the event.target.says.value', event.target.says.value);
+  console.log('log of the event.target.says.value', event.target.says.value);
 
   event.preventDefault(); //gotta have it for this purpose. prevents page reload on a 'submit' event
 
