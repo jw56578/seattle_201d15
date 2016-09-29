@@ -4,10 +4,10 @@ Continue working on the functionality of your **sales.html** page if you do not 
 
 Here's your other tasks for today:
 
-- Pat is undecided about the way the public-facing page should look, and has asked you to build out two different versions: one of Pat's design, and one of your design. Continue with your own design that you've started on **index.html**, and also create a new file called **index_pat.html** to realize the design that Pat has asked for.
-- For both Pat's design, and yours, Pat INSISTS that you **must** use all of the images in the adjacent asset directory. *Every. Single. One.*
-- Your public-facing page mockups should have all of the things you'd expect such a page to have for such a business: locations with addresses, hours open, contact information, and so us. Just make up versions of these things since this is not a real business, of course.
-- You can also mock up references to (either links or little sections on the **index** pages) for things like About Us (company history and mission), Merchandise (sales of t-shirts, mugs, stickers, etc.), links to salmon events like the Salmon Days in Issaquah, etc.
+- Continue with your own design that you've started on **index.html**.
+- For your design, Pat INSISTS that you **must** use all of the images in the adjacent asset directory. *Every. Single. One.*
+- Your public-facing page mockup in **index.html** should have all of the things you'd expect such a page to have for such a business: locations with addresses, hours open, contact information, and so us. Just make up versions of these things since this is not a real business, of course.
+- You can also mock up references to (either links or little sections on the **index** page) for things like About Us (company history and mission), Merchandise (sales of t-shirts, mugs, stickers, etc.), links to salmon events like the Salmon Days in Issaquah, etc.
 
 - Apply a similar style to the **sales.html** page.
 
