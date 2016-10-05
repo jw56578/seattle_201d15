@@ -49,6 +49,14 @@ As a result of completing Day 13 of Code 201, students will:
   - Are all of the requirements firm? (No, there is room for negotiation, but variances must be pre-approved)
   - Can teams use API data? (Generally no, there are ways to mock that up more in line with our command at this point. That's covered extensively in 301)
   - What can teams use outside of the ole HTML, CSS, JS, etc.? Are there any approved libraries? (It's easier to name the excluded libraries: jQuery, any CSS libraries. It's OK to use other libraries or utilities like ChartJS or Google Maps, but we'll discuss them as part of reviewing your project plan.)
+  
+- [Sasquatch Dice](http://mmailman.github.io/dice-game/)
+- [OnTrack](http://jeffgebhardt.github.io/on-track/)
+- [Pong Fellows](https://shaallfar.github.io/PongFellows/)
+- [Rock Paper Scissors](https://jmalesh.github.io/final-project/)
+- [Welcome to Seattle](http://peterbreen.github.io/welcome-to-seattle/)
+- [Budget Buddy](http://stefuhnee.github.io/budget-buddy/)
+- [Hacker Hangout](http://ckperez.github.io/hackerhangout/)
 
 [-top-](#top)
 
